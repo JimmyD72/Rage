@@ -64,7 +64,7 @@ const Contact = ({ sectionStyles }) => {
                 <div className="col-lg-6 col-md-12">
                   <input
                     type="email"
-                    placeholder="Your Emaill*"
+                    placeholder="Your Email*"
                     {...register('email', { required: true })}
                   />
                   {errors?.email?.type === 'required' && (

@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/all.the.rage/static/css/main.f7c52a9f.chunk.css",
-    "main.js": "/all.the.rage/static/js/main.005865a2.chunk.js",
-    "main.js.map": "/all.the.rage/static/js/main.005865a2.chunk.js.map",
-    "runtime-main.js": "/all.the.rage/static/js/runtime-main.e00632cf.js",
-    "runtime-main.js.map": "/all.the.rage/static/js/runtime-main.e00632cf.js.map",
+    "main.css": "/all.the.rage/static/css/main.62349746.chunk.css",
+    "main.js": "/all.the.rage/static/js/main.5af1d850.chunk.js",
+    "main.js.map": "/all.the.rage/static/js/main.5af1d850.chunk.js.map",
+    "runtime-main.js": "/all.the.rage/static/js/runtime-main.17f236a4.js",
+    "runtime-main.js.map": "/all.the.rage/static/js/runtime-main.17f236a4.js.map",
     "static/css/2.4be38407.chunk.css": "/all.the.rage/static/css/2.4be38407.chunk.css",
-    "static/js/2.23aa1c3c.chunk.js": "/all.the.rage/static/js/2.23aa1c3c.chunk.js",
-    "static/js/2.23aa1c3c.chunk.js.map": "/all.the.rage/static/js/2.23aa1c3c.chunk.js.map",
+    "static/js/2.d555c878.chunk.js": "/all.the.rage/static/js/2.d555c878.chunk.js",
+    "static/js/2.d555c878.chunk.js.map": "/all.the.rage/static/js/2.d555c878.chunk.js.map",
     "index.html": "/all.the.rage/index.html",
     "static/css/2.4be38407.chunk.css.map": "/all.the.rage/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.f7c52a9f.chunk.css.map": "/all.the.rage/static/css/main.f7c52a9f.chunk.css.map",
-    "static/js/2.23aa1c3c.chunk.js.LICENSE.txt": "/all.the.rage/static/js/2.23aa1c3c.chunk.js.LICENSE.txt",
-    "static/media/ben-parker.c1ce2cea.jpg": "/all.the.rage/static/media/ben-parker.c1ce2cea.jpg",
+    "static/css/main.62349746.chunk.css.map": "/all.the.rage/static/css/main.62349746.chunk.css.map",
+    "static/js/2.d555c878.chunk.js.LICENSE.txt": "/all.the.rage/static/js/2.d555c878.chunk.js.LICENSE.txt",
+    "static/media/ben-parker.cb4cc23e.jpg": "/all.the.rage/static/media/ben-parker.cb4cc23e.jpg",
+    "static/media/bg-home.b9cac665.jpg": "/all.the.rage/static/media/bg-home.b9cac665.jpg",
     "static/media/brooke-cagle.ff9d2318.jpg": "/all.the.rage/static/media/brooke-cagle.ff9d2318.jpg",
-    "static/media/payment.57ed5283.png": "/all.the.rage/static/media/payment.57ed5283.png",
+    "static/media/ragehammer.10693e48.svg": "/all.the.rage/static/media/ragehammer.10693e48.svg",
     "static/media/vicky-hladynets.218efbe9.jpg": "/all.the.rage/static/media/vicky-hladynets.218efbe9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e00632cf.js",
+    "static/js/runtime-main.17f236a4.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.23aa1c3c.chunk.js",
-    "static/css/main.f7c52a9f.chunk.css",
-    "static/js/main.005865a2.chunk.js"
+    "static/js/2.d555c878.chunk.js",
+    "static/css/main.62349746.chunk.css",
+    "static/js/main.5af1d850.chunk.js"
   ]
 }

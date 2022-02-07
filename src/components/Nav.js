@@ -46,14 +46,9 @@ const Nav = () => {
           <a href="#pricing">pricing</a>
         </li>
         <li className={nav__item}>
-          <a href="">contact</a>
+          <a href="#contact">contact</a>
         </li>
-        {/*<li className={nav__item}>*/}
-        {/*  <a href=""></a>*/}
-        {/*</li>*/}
-        {/*<li className={nav__item}>*/}
-        {/*  <a href="#contact">contact</a>*/}
-        {/*</li>*/}
+
         <li className={nav__item}>
           <Button isCurved>Schedule your rage!</Button>
         </li>
@@ -61,7 +56,7 @@ const Nav = () => {
 
       <i
         className={`fas fa-bars ${nav__icon}`}
-        onClick={() => setIsVisible(!isVisible)}
+        onClick={() => setIsVisible(isVisible)}
       />
     </nav>
   );
