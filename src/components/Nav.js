@@ -11,6 +11,7 @@ import {
   nav__fixed,
 } from './Nav.module.scss';
 
+
 const Nav = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -50,14 +51,11 @@ const Nav = () => {
         </li>
 
         <li className={nav__item}>
-          <Button isCurved>Schedule your rage!</Button>
+
+          <Button isCurved>Login</Button>
+
         </li>
       </ul>
-
-      <i
-        className={`fas fa-bars ${nav__icon}`}
-        onClick={() => setIsVisible(isVisible)}
-      />
     </nav>
   );
 };

@@ -1,7 +1,7 @@
 import React from 'react';
 
-
-
+import {Login} from "./components/Login.js"
+import {Button} from "./components/Button";
 import Header from './sections/Header';
 import Services from './sections/Services';
 import Features from './sections/Features';
@@ -14,6 +14,24 @@ import Footer from './sections/Footer';
 
 import classes from './App.module.scss';
 
+function App() {
+
+  function addComponent() {
+
+  }
+
+  return (
+
+      <div>
+
+        <Button onClick={addComponent} text="Call Component"/>
+        <Login text="Login"/>
+
+      </div>
+
+  )
+
+}
 const App = () => {
     return (
     <div>
